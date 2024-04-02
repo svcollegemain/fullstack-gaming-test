@@ -93,7 +93,7 @@ export default function Result() {
                             <div className="row g-0">
                                 <div className="col-12">
                                     <div className="card-body">
-                                    {value.title.charAt(0) == '/'? <img src={value.title}/> : <h2>{value.title}</h2>}
+                                    {value.title.charAt(0) == '/'? <img src={value.title} style={{ maxWidth: '100%', height: 'auto', display: 'block', margin:'5px auto' }} alt="question"/> : <h2>{value.title}</h2>}
                                         {/* <h2 className="card-title">{value.title}</h2> */}
                                         {value.options.map((element, i) => {
 

@@ -1,6 +1,4 @@
 import q1 from '../Images/Capture.PNG'
-import q2 from '../Images/Capture1.PNG'
-import q3 from '../Images/Capture3.PNG'
 
 
 export const questions = {
@@ -200,8 +198,8 @@ socialMedia:[
     //// new fulstack test
     fullstack_second_test:[
         {
-            title: q2,
-            answer: 1,
+            title: 'אם x = 3 ו y = 5 , מה הערך של Z  (x+y)x²=Z',
+            answer: 2,
             options: [81,72,64,75]
         },
         {
@@ -215,7 +213,7 @@ socialMedia:[
             options: ['לכתוב קוד','להנדס מחשבים','לעשות בדיקות מקיפות','להבין בתוכנה']
         },
         {
-            title: 'אם שעה רגילה הינה 60 דקות ושעה אקדמאית היא 45 דקות, כמה שעות רגילות הינן 8 שעות אקדמאיות',
+            title: 'אם שעה רגילה הינה 60 דקות ושעה אקדמאית היא 45 דקות, כמה שעות רגילות הינן 8 שעות אקדמאיות?',
             answer: 1,
             options: ['5','6','7.5','8']
         },
@@ -225,7 +223,7 @@ socialMedia:[
             options: ['תומר','נועה','המוכר בחנות','אי אפשר לדעת']
         },
         {
-            title: q3,
+            title: "מה משמעות המשפט הבא: There's a difference between a line and a circle",
             answer: 3,
             options: ['יש הבדלים בין מלבנים למעגלים','יש הבדל משולש לעיגול','יש הבדלים בין קוים למעגלים','יש הבדל בין קו למעגל']
         },

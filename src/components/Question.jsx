@@ -16,7 +16,7 @@ export default function Question({ title, list, quNO }) {
             {/* <h3>
                 {title}
             </h3> */}
-            {title.charAt(0) == '/' ? <img src={title} style={{ maxWidth: '100%', height: 'auto', display: 'block', margin:'5px auto' }} alt="question" /> : <h3 dir='rtl'>{title}</h3>}
+            {title.charAt(0) == '/' ? <img src={title} style={{width:'100%' ,height: 'auto', display: 'block', margin:'5px auto' }} alt="question" /> : <h3 dir='rtl'>{title}</h3>}
 
             {list.map((q,index) => (
                 <div>

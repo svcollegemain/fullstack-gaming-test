@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/fullstack-gaming-test/static/css/main.25fc7b42.css",
-    "main.js": "/fullstack-gaming-test/static/js/main.e7813d3b.js",
+    "main.js": "/fullstack-gaming-test/static/js/main.86f962c2.js",
     "static/media/LOGO.png": "/fullstack-gaming-test/static/media/LOGO.9b41e475fd9c27c2333e.png",
     "static/media/Capture.PNG": "/fullstack-gaming-test/static/media/Capture.245b244080f40ddab0aa.PNG",
     "index.html": "/fullstack-gaming-test/index.html",
     "main.25fc7b42.css.map": "/fullstack-gaming-test/static/css/main.25fc7b42.css.map",
-    "main.e7813d3b.js.map": "/fullstack-gaming-test/static/js/main.e7813d3b.js.map"
+    "main.86f962c2.js.map": "/fullstack-gaming-test/static/js/main.86f962c2.js.map"
   },
   "entrypoints": [
     "static/css/main.25fc7b42.css",
-    "static/js/main.e7813d3b.js"
+    "static/js/main.86f962c2.js"
   ]
 }
